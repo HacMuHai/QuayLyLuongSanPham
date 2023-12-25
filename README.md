@@ -3,7 +3,7 @@
 1. Creating products
 ![TaoSP](https://github.com/HacMuHai/QuayLyLuongSanPham/assets/125679401/4c2d741b-952c-4464-9a57-958d8a846356)
 2. Creating stages
-![TaoCD](https://github.com/HacMuHai/QuayLyLuongSanPham/assets/125679401/34524cbf-fa5a-4796-8559-0c1a89b18f15)
+![TaoCD](https://github.com/HacMuHai/QuayLyLuongSanPham/assets/125679401/03c798a9-4963-481a-9dbb-627961f9abcb)
 3. Worker assignment
 ![phanCong](https://github.com/HacMuHai/QuayLyLuongSanPham/assets/125679401/1ea79c7f-1483-4c6f-94c2-bfede8117551)
 4. Timekeeping worker
