@@ -1,4 +1,4 @@
-# Landing-page-react
+# Quan-Ly-San-Pham
 ## Some main functions 
 1. Creating products
 ![TaoSP](https://github.com/HacMuHai/QuayLyLuongSanPham/assets/125679401/4c2d741b-952c-4464-9a57-958d8a846356)
